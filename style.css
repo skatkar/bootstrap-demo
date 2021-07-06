@@ -1,0 +1,16 @@
+/* After adding fixed-top to the navbar, this will put the ghost element with no content
+    to have spacing between navbar and the showcase image
+*/
+body::before{
+    display: block;
+    content: '';
+    height: 40px
+}
+
+/* Medium size screen and bove */
+
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
