@@ -16,7 +16,8 @@ body::before{
 }
 
 .bg-primary {
-    background-color:rgb(126, 202, 160)!important
+    /* background-color:rgb(126, 202, 160)!important */
+    background-color: #34568B!important;
 }
 
 .btn-primary{
