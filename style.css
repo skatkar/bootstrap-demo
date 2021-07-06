@@ -24,3 +24,13 @@ body::before{
     background-color:rgb(173, 38, 15);
     border-color:rgb(173, 38, 15)
 }
+
+.btn-check:focus+.btn-primary, .btn-primary:focus{
+    background-color:rgb(173, 38, 15);
+    border-color:rgb(173, 38, 15)
+}
+
+.btn-primary:hover {
+    background-color:rgb(185, 79, 60);
+    border-color:rgb(185, 79, 60)
+}
