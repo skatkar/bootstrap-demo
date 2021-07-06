@@ -14,3 +14,12 @@ body::before{
         width: 50%;
     }
 }
+
+.bg-primary {
+    background-color:rgb(126, 202, 160)!important
+}
+
+.btn-primary{
+    background-color:rgb(173, 38, 15);
+    border-color:rgb(173, 38, 15)
+}
